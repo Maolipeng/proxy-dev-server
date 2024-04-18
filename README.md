@@ -32,7 +32,7 @@ proxy-server --target http://example.com --port 8000 --hostname localhost
 如果你需要HTTPS，你可以提供--https、--key和--cert选项，如下所示：
 
 ```bash
-my-proxy-server --target http://example.com --port 8000 --hostname localhost --https ./key.pem --cert ./cert.pem
+proxy-server --target http://example.com --port 8000 --hostname localhost --https ./key.pem --cert ./cert.pem
 
 ```
 
