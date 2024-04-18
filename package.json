@@ -1,6 +1,6 @@
 {
-  "name": "proxy-dev-server",
-  "version": "0.0.1",
+  "name": "@maolipeng/proxy-dev-server",
+  "version": "0.0.2",
   "description": "A proxy server to handle cors",
   "main": "dist/cjs/index.js",
   "bin": {
